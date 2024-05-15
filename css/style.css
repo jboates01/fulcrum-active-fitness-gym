@@ -192,7 +192,7 @@ section {
 
 .btn-brand:hover {
     background-color: var(--martinique);
-    border-color: var(--martinique);
+    border-color: var(--watermelon);
     color: #fff;
 }
 
