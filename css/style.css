@@ -47,3 +47,219 @@ a {
 a:hover {
     color: var(--blueberry);
 }
+
+section {
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+.text-brand {
+    color: var(--blueberry) !important;
+}
+
+
+.hero-slider .owl-prev,
+.hero-slider .owl-next{
+    background-color: rgba(255, 255, 255, 0.3) !important;
+    width: 60px !important;
+    height: 60px !important;
+    display: block;
+    display: grid;
+    place-items: center;
+    color: #fff !important;
+    border-radius: 100px;
+    line-height: 0;
+    border-radius: 100px !important;
+    position: absolute;
+    top: 50%;
+    font-weight: 600 !important;
+    font-size: 12px !important;
+    transition: all 0.4s ease;
+    margin-top: -30px !important;
+}
+
+.owl-prev {
+    left: 0;
+}
+.owl-next {
+    right: 0;
+}
+
+.hero-slider .owl-prev:hover,
+.hero-slider .owl-next:hover {
+    background-color: var(--watermelon) !important; 
+}
+
+.owl-dot.active span{
+    background-color: var(--blueberry) !important;
+}
+
+
+ /* slide */
+ .slide {
+     min-height: 100vh;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     position: relative;
+}
+
+.slide1 {
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(../images/bg_hero2.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.slide2 {
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(../images/bg_hero1.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.slide .display-3 {
+    text-transform: uppercase;
+    color: #fff;
+}
+
+/* ----------------navbar-------------- */
+
+.top-nav {
+    background-color: var(--watermelon);
+    color: #fff;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.top-nav p {
+    display: inline-block;
+    margin-bottom: 0;
+    margin-right: 10px;
+}
+
+.top-nav span,
+.top-nav i {
+    vertical-align: middle;
+}
+
+.navbar {
+    box-shadow: var(--shadow);
+}
+
+.social-icons a {
+    width: 28px;
+    height: 28px;
+    display: inline-flex;
+    color: #fff;
+    background-color: rgba(134, 6, 6, 0.74);
+    text-decoration: none;
+    align-items: center;
+    justify-content: center;
+    border-radius: 100px;
+}
+
+.social-icons a:hover {
+    background-color: var(--martinique);
+    color: var(--blueberry);
+}
+
+.navbar .navbar-nav .nav-link {
+    color: var(--martinique);
+}
+
+.navbar .navbar-nav .nav-link:hover {
+    color: var(--watermelon);
+}
+
+.navbar .navbar-nav .nav-link.active {
+    color: var(--martinique);
+}
+
+.navbar-brand {
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.btn {
+    padding: 8px 26px;
+}
+
+.btn-brand {
+    border-color: var(#);
+    background-color: var(--watermelon);
+    color: #fff;
+}
+
+.btn-brand:hover {
+    background-color: var(--martinique);
+    border-color: var(--martinique);
+    color: #fff;
+}
+
+    .intro {margin-bottom: 36px;
+    text-align: center;}
+    
+    .intro p {
+        max-width: 500px;
+    }
+    .intro h6{
+        color: var(--blueberry);
+        font-weight: 400;
+        text-transform: uppercase;
+    }
+    
+    .intro h1 {
+        margin-top: 15px;
+        margin-bottom: 15px;
+    }
+    
+    .info-box {
+        align-items: center;
+        display: flex;
+    }
+    
+    .info-box img {
+        width: 90px;
+    }
+    
+    /*------------------------Milestone------------------*/
+
+    #milestone {
+        background: linear-gradient(rgba(197, 20, 29, 0.945), rgba(228, 23, 50, 0.85)), url(../images/bg_hero1.jpg);
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+    }
+    
+    #milestone h1,
+    #milestone p {
+        color: #fff;
+    }
+    
+    /*--------------------Programs section-----------*/
+
+    .programs {
+        padding: 32px;
+        background-color: #fff;
+        box-shadow: var(--shadow);
+    }
+    
+    .programs h5 {
+        margin-top: 24px;
+        margin-bottom: 10px;
+    }
+    
+    .programs img {
+        width: 90px;
+    }
+
+    #workout-schedule {
+        padding: 10px;
+        background-color: #fff;
+        box-shadow: var(--martinique);
+    
+    }
+
+    
+    
