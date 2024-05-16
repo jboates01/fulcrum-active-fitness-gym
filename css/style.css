@@ -185,14 +185,14 @@ section {
 }
 
 .btn-brand {
-    border-color: var(#);
+    border-color: var(--watermelon);
     background-color: var(--watermelon);
     color: #fff;
 }
 
 .btn-brand:hover {
     background-color: var(--martinique);
-    border-color: var(--watermelon);
+    border-color: var(--martinique);
     color: #fff;
 }
 
