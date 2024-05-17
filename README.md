@@ -1,10 +1,10 @@
 Project Name: Fulcrum Fitness Website
 
-Welcome to the repository for the Fulcrum Fitness website. This project aims to provide an engaging, informative, and accessible online experience for gym members and potential clients. It features a responsive design, interactive elements, and a wealth of resources about a fictitious gym club - Fulcrum Fitness Club.
+This project aims to provide an engaging, informative, and accessible online experience for gym members and potential clients. It features a responsive design, interactive elements, and a wealth of resources about a fictitious gym club - Fulcrum Fitness Club.
 
 Description
 
-Fulcrum Fitness website is designed to promote the gym's programs and facilities, engage with members, and attract new visitors. The site includes features like class schedules, trainer social media follow links, member testimonials, and detailed info about our special events and challenges.
+Fulcrum Fitness website is designed to promote the gym's programs and facilities, engage with members, and attract new visitors. The site includes features like class schedules, trainer social media follow links, member testimonials, and detailed information about special events and challenges.
 
 # Project Goals for the Fulcrum Fitness Website
 
@@ -16,7 +16,7 @@ The Fulcrum Fitness Website is designed with the following key objectives in min
 
 ## 2. Develop Responsive Web Pages
 - **Objective:** Ensure that the website is fully responsive on all devices.
-- **Details:** Utilise flexible layouts, images, and CSS media queries to accommodate various screen sizes and orientations.
+- **Details:** Utilise flexible layouts, images, and CSS or media queries to accommodate various screen sizes and orientations.
 
 ## 3. Provide Comprehensive Fitness Information
 - **Objective:** Offer detailed information about fitness programs, including schedules and session descriptions.
@@ -27,16 +27,16 @@ The Fulcrum Fitness Website is designed with the following key objectives in min
 - **Details:** Include email, phone number, and physical location information.
 
 ## 5. Include a Map Integration
-- **Objective:** Embed a map to show the location of the fitness center.
-- **Details:** The map should be interactive, allowing users to zoom and view directions.
+- **Objective:** Embed a map to show the location of the fitness centre.
+- **Details:** The map should be clear and easy to read, allowing users to zoom and view directions.
 
 ## 6. Ensure High Performance and Security
 - **Objective:** The website should load quickly and operate smoothly.
-- **Details:** Also, security measures must be implemented to protect user data, especially from the contact forms.
+- **Details:** The code should be clean to avoid link errors form errors.
 
 ## 7. Promote Engagement and Interaction
-- **Objective:** Encourage interaction through social media links and a blog section.
-- **Details:** Include health tips and possibly a newsletter signup to keep visitors engaged.
+- **Objective:** Encourage interaction through social media links and beautiful and engaging imagery to make the club appealing for new membership signups.
+- **Details:** Include health tips and possibly special events that features health and wellness themes to keep visitors engaged.
 
 By meeting these goals, Fulcrum Fitness aims to increase client engagement and satisfaction, creating a comprehensive and effective online presence.
 
@@ -54,15 +54,15 @@ The design and functionality of the Fulcrum Fitness Website are geared towards m
 
 ## 3. Seamless Contact and Interaction
 - **Goal:** Enable customers to contact Fulcrum Fitness effortlessly to book sessions or ask questions.
-- **Details:** A user-friendly contact form along with direct contact details and an interactive map to locate the fitness center.
+- **Details:** A user-friendly contact form along with direct contact details and an interactive map to locate the fitness centre.
 
 ## 4. Responsive Design for All Devices
 - **Goal:** Ensure every customer can access the website from any device, whether desktop, tablet, or smartphone.
 - **Details:** The website uses responsive design techniques to provide a consistent experience across all devices.
 
 ## 5. Find Us Easily
-- **Goal:** Help new clients locate the fitness center easily through detailed maps and directions.
-- **Details:** An embedded Google Maps interface allows users to get directions from their location to the center.
+- **Goal:** Help new clients locate the fitness centre easily through detailed maps and directions.
+- **Details:** An embedded Google Maps interface allows users to get directions from their location to the centre.
 
 ## 6. Learn and Engage
 - **Goal:** Offer educational content and updates through a blog and social media that encourage health and fitness education.
@@ -81,23 +81,23 @@ The following are the detailed project requirements and specific functionalities
 ## 1. Website Structure and Content
 - **Requirement:** The website must consist of at least three separate pages or page areas if using a single scrolling page.
 - **Details:** 
-  - Home page with an overview of the fitness center
+  - Home page with an overview of the fitness centre
   - Training Schedule page detailing upcoming sessions
   - Contact Us page with a form and map integration
 
 ## 2. Responsive Design
 - **Requirement:** The website must be responsive, displaying correctly on desktops, tablets, and mobile devices.
-- **Details:** Use CSS media queries to ensure that layout, text, and images adjust smoothly across different screen resolutions.
+- **Details:** Use Bootstrap grids, CSS and CSS media queries to ensure that layout, text, and images adjust smoothly across different screen resolutions.
 
 ## 3. User Interaction
 - **Requirement:** Interactive elements such as forms, buttons, and links must be functional and easy to use.
 - **Details:** 
-  - Contact form with validation to capture user inquiries
+  - A simple contact form to capture user inquiries
   - Clickable links to social media pages
   - Buttons for submitting forms.
 
 ## 4. Map Integration
-- **Requirement:** Incorporate an interactive map to show the location of the fitness center.
+- **Requirement:** Incorporate an interactive map to show the location of the fitness centre.
 - **Details:** Use Google Maps API or similar to embed a map that allows users to zoom and find directions.
 
 ## 8. Accessibility
@@ -139,10 +139,10 @@ The design and architecture of the Fulcrum Fitness Website are crafted to provid
 
 ### Layout
 The website architecture is designed with simplicity and scalability in mind, employing a modular approach that includes:
-- **Home Page**: Introduces the fitness center and provides quick navigation to other sections.
+- **Home Page**: Introduces the fitness centre and provides quick navigation to other sections.
 - **Training Schedule**: Lists all available training sessions for different types of classes.
 - **Contact Us**: Features a modal form for inquiries.
-- **Programs**: Features pictures of different training sessions, has a training schedule, contact details and an embeded map to where customers can find the gym.
+- **Programs**: Features pictures of different training sessions, has a training schedule, contact details and an embedded map to where customers can find the gym.
 
 ### Diagrams and Sketches
 These visual representations helped in planning the site layout and the interaction between different components.
@@ -182,8 +182,8 @@ Below is the wireframe depicting the programs page design:
 
 ### Layout Decisions
 - **Navigation**: Easy-to-use, fixed top navigation bar that remains accessible as users scroll.
-- **Typography**: Clear and readable fonts, with a professional look that aligns with the fitness center's branding.
-- **Color Scheme**: Motivating and energetic colors that enhance the user experience and focus on fitness and health.
+- **Typography**: Clear and readable fonts, with a professional look that aligns with the fitness centre's branding.
+- **Color Scheme**: Motivating and energetic colours that enhance the user experience and focus on fitness and health.
 
 ## Technologies Used
 - **HTML5**: For structuring the content and creating a semantic layout.
@@ -199,57 +199,61 @@ Below is the wireframe depicting the programs page design:
 
 By adhering to these design principles, the Fulcrum Fitness Website aims to deliver a superior user experience, optimized for both functionality and aesthetic appeal across all devices.
 
-Technologies Used
+## Technologies Used
 
-1. HTML5
-2. CSS3
-3. JavaScript
-4. JQuery
-5. Bootstrap: Used for responsive, mobile-first design. Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
-6. Owl Carousel: Implemented for creating interactive carousels for testimonials and gallery sections. Licensed under: SEE LICENSE IN https://github.com/OwlCarousel2/OwlCarousel2/blob/master/LICENSE
-7. Boxicons: Icons used throughout the website for intuitive and aesthetically pleasing UI design.
-8. W3Schools & Code Institute: References for coding techniques and best practices.
-9. Canva Pro & Pexels: High-quality images used to enhance visual appeal and user engagement.
+1. **HTML5**
+2. **CSS3**
+3. **JavaScript**
+4. **JQuery**
+5. **Bootstrap**: Used for responsive, mobile-first design. Licensed under MIT ([license](https://github.com/twbs/bootstrap/blob/main/LICENSE))
+6. **Owl Carousel**: Implemented for creating interactive carousels for testimonials and gallery sections. Licensed under: [SEE LICENSE](https://github.com/OwlCarousel2/OwlCarousel2/blob/master/LICENSE)
+7. **Boxicons**: Icons used throughout the website for intuitive and aesthetically pleasing UI design.
+8. **W3Schools & Code Institute**: References for coding techniques and best practices.
+9. **Canva Pro & Pexels**: High-quality images used to enhance visual appeal and user engagement.
 
-Features
+## Features
 
-Responsive Layout
-Interactive Carousels
-Modal Contact Form
-New Fitness Routines Section
-Real-time Class Schedules
-Accessible Design
+- Responsive Layout
+- Interactive Carousels
+- Modal Contact Form
+- New Fitness Routines Section
+- Real-time Class Schedules
+- Accessible Design
 
-Setup
+## Setup
 
 To get a local copy up and running, follow these simple steps:
 
 1. Clone the repo
-git clone https://github.com/your-username/fulcrum-fitness.git
 
-2. Open index.html in your browser to view the project.
+https://jboates01.github.io/fulcrum-active-fitness-gym/#
 
-Code Example
+2. Open `index.html` in your browser to view the project.
+
+
+## Code Example
 
 Here's a snippet from our Owl Carousel implementation:
 
-HTML
+### HTML
 
+```html
 <div class="owl-carousel owl-theme hero-slider">
-        <div class="slide slide1">
-            <div class="container">
-                <div class="row">
-                    <div class="col-12 text-center text-white">
-                        <h6 class="text-white text-uppercase">Welcome to Fulcrum Active</h6>
-                        <h1 class="display-3 my-4">Keep your body <br /><span>fit & Strong</span></h1>
-                        <a href="#" class="btn btn-brand">Join Us</a>
-                        <a href="#" class="btn btn-outline-light ms-3">Our Programs</a>
-                    </div>
+    <div class="slide slide1">
+        <div class="container">
+            <div class="row">
+                <div class="col-12 text-center text-white">
+                    <h6 class="text-white text-uppercase">Welcome to Fulcrum Active</h6>
+                    <h1 class="display-3 my-4">Keep your body <br /><span>fit & Strong</span></h1>
+                    <a href="#" class="btn btn-brand">Join Us</a>
+                    <a href="#" class="btn btn-outline-light ms-3">Our Programs</a>
                 </div>
             </div>
         </div>
+    </div>
+</div>
 
-JavaScript
+## JavaScript
 
 $('.owl-carousel').owlCarousel({
     loop:true,
@@ -257,24 +261,24 @@ $('.owl-carousel').owlCarousel({
     nav:true,
     responsive:{
         0:{
-            slide:1
+            items:1
         },
         600:{
-            slide:2
+            items:2
         },
         1000:{
-            slide:3
+            items:3
         }
     }
 })
 
 
+### Credits
 
-Credits
+- **Design Inspiration**: W3Schools, Code Institute, ARCTutorials (YouTube Channel)
+- **Icons**: Boxicons
+- **Slides**: Owl Carousel
 
-1. Design Inspiration: W3Schools and Code Institute
-2. Icons: Boxicons
-3. Images: Canva Pro and Pexels
 
 # Picture Credits
 
@@ -289,9 +293,7 @@ Images used in the homepage sliders are credited to the following photographers:
   - Source: [Gilaxia's Portfolio via Canva Pro]
 
   **Training Programs, icons and images used in the special events section **
-  - Contributions: All activ images.
-  - Source: [Avanti-photos via Canva Pro]
-
+  - Contributions: All activity images. Source: [Avanti-photos via Canva Pro]
 
 We appreciate the talent and work of the photographers that enhance the visual appeal of our website.
 
@@ -340,16 +342,19 @@ During the development and ongoing maintenance of the Fulcrum Fitness Website, s
 - **Problem:** Some navigation links for the social icons were not directing to their respective pages.
 - **Fix:** Corrected the href attributes in the navigation bar and ensured that all internal links were properly anchored to the respective sections.
 
-### 5. Map Display Errors
+### 3. Map Display Errors
 - **Problem:** The embedded Google Map was not loading correctly on the Contact Us page due to an incorrect API key configuration.
 - **Fix:** Updated the Google Maps API key and adjusted the API settings to ensure the map loaded correctly and remained interactive.
 
-Documenting these fixes not only helps in maintaining an historical record of the project's evolution but also assists in troubleshooting future issues that may arise.
+### 4. Broken image links on GitHub
+- **Problem:** While the pages loaded correctly on Gitpod, it lost all images and page structure when pushed to GitHub.
+- **Fix:** Researched the problem and found some answers from stackoverflow.com which indicated that GitHub did not like image file paths like (../images/image.jpg) and that removing the first / will resolve the problem. Corrected the paths on all images i.e (images/images.jpg) on all pages and tested to ensure that all  image links were properly working on all pages.
+
 
 
 Contact
 
-For more information, please contact jake.boateng@gmail.com.
+For more information, please contact me at jake.boateng@gmail.com.
 
 
 
