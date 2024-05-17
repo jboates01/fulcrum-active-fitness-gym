@@ -171,7 +171,7 @@ section {
     color: var(--watermelon);
 }
 
-.navbar .navbar-nav .nav-link.active {
+.navbar .navbar-nav .nav-link .active {
     color: var(--martinique);
 }
 
@@ -179,6 +179,8 @@ section {
     font-size: 28px;
     font-weight: 700;
 }
+
+/*------------Buttons--------------*/
 
 .btn {
     padding: 8px 26px;
