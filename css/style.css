@@ -462,6 +462,11 @@ footer .footer-top {
     padding-top: 20px;
 }
 
+.footer-bottom p {
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
 footer .navbar-brand {
     color: #fff;
 }
