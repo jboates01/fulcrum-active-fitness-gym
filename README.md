@@ -1,5 +1,61 @@
 Project Name: Fulcrum Fitness Website
 
+# Fulcrum Active Gym - README
+
+Welcome to Fulcrum Active Gym's web application repository. This document provides a comprehensive overview of the project, its development, and the rationale behind it.
+
+## Project Overview
+
+Fulcrum Active Gym is an interactive and fully-functional web application designed to enhance the user experience for gym members. It aims to provide a seamless interface for managing memberships, booking classes, and accessing fitness resources. The application is developed using advanced web technologies to ensure responsiveness, usability, and accessibility.
+
+## Rationale
+
+The development of Fulcrum Active Gym addresses the growing need for digital solutions in the fitness industry. Our goal is to create a platform that not only meets the operational needs of gym management but also provides a user-friendly interface for members. This application is designed with the following objectives in mind:
+
+- Streamlining the process of class bookings and membership management.
+- Providing easy access to fitness resources and schedules.
+- Enhancing user engagement through interactive features.
+
+## Development Process
+
+The development of Fulcrum Active Gym involved several stages, each meticulously documented to ensure clarity and transparency. Below is a detailed explanation of each stage:
+
+### 1. Project Planning and Rationale
+A clear and justified rationale for the application was documented, outlining its real-world application and the development strategy. The project aims to provide a comprehensive solution for gym management and user engagement.
+
+### 2. Custom HTML and CSS
+The application was developed using custom HTML and CSS code, ensuring compliance with official validation standards:
+- **HTML Validation:** The HTML code passes through the W3C validator with no issues.
+- **CSS Validation:** The CSS code passes through the official Jigsaw validator with no issues, employing advanced techniques such as CSS media queries for responsiveness.
+
+### 3. Screenshots and User Stories
+Screenshots of the finished project are included to illustrate the user interface and functionality, aligning with relevant user stories. These visuals provide a clear representation of how the application meets user needs.
+
+### 4. Manual Testing Procedures
+Comprehensive manual testing procedures were designed and implemented to assess the application's functionality, usability, and responsiveness. Testing scenarios covered various user interactions to ensure a seamless experience across different devices and browsers.
+
+### 5. Testing Documentation
+The results of the testing procedures are documented in this README file, detailing the methods used and the outcomes. This documentation provides transparency and serves as a reference for future improvements.
+
+### 6. Development Lifecycle
+The README file includes a detailed account of the development lifecycle procedures. This documentation covers all stages from initial planning to final deployment, highlighting key milestones and decisions.
+
+### 7. Commit Messages
+The development and testing process is clearly evident through detailed commit messages. Each commit message provides a rationale for the changes made, ensuring that the project history is well-documented and justified.
+
+### 8. User Stories and Target Audience
+The application was developed with a clear understanding of the target audience's needs. User stories were created to guide the development process, ensuring that the application addresses specific requirements and enhances user satisfaction.
+
+### 9. Advanced Techniques
+The application incorporates advanced web development techniques, such as CSS media queries, to ensure that it is fully responsive and provides a consistent user experience across different devices.
+
+## Conclusion
+
+Fulcrum Active Gym is a robust web application developed with a focus on functionality, usability, and user satisfaction. By adhering to industry standards and employing advanced techniques, we have created a platform that meets the needs of both gym management and members. We invite you to explore the application and provide feedback to help us continue improving.
+
+Thank you for your interest in Fulcrum Active Gym.
+
+
 This project aims to provide an engaging, informative, and accessible online experience for gym members and potential clients. It features a responsive design, interactive elements, and a wealth of resources about a fictitious gym club - Fulcrum Fitness Club.
 
 Description
