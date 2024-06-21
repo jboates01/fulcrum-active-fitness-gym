@@ -506,19 +506,23 @@
                                 </div>
                                 <div class="col-lg-6">
                                     <label for="firstName" class="form-label">First name</label>
-                                    <input type="text" class="form-control" placeholder="Jon" id="firstName" aria-describedby="emailHelp" required>
+                                    <input type="text" class="form-control" placeholder="Jon" id="firstName" aria-describedby="firstNameHelp" required>
+                                    <div id="firstNameHelp" class="form-text">Please enter your first name.</div>
                                 </div>
                                 <div class="col-lg-6">
                                     <label for="lastName" class="form-label">Last name</label>
-                                    <input type="text" class="form-control" placeholder="Doe" id="lastName" aria-describedby="emailHelp" required>
+                                    <input type="text" class="form-control" placeholder="Doe" id="lastName" aria-describedby="lastNameHelp" required>
+                                    <div id="lastNameHelp" class="form-text">Please enter your last name.</div>
                                 </div>
                                 <div class="col-12">
                                     <label for="email" class="form-label">Email address</label>
                                     <input type="email" class="form-control" placeholder="Johndoe@example.com" id="email" aria-describedby="emailHelp" required>
+                                    <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
                                 </div>
                                 <div class="col-12">
                                     <label for="message" class="form-label">Enter Message</label>
-                                    <textarea name="message" placeholder="Any questions, feedback, or requests you have." class="form-control" id="message" rows="4" required></textarea>
+                                    <textarea name="message" placeholder="Any questions, feedback, or requests you have." class="form-control" id="message" rows="4" aria-describedby="messageHelp" required></textarea>
+                                    <div id="messageHelp" class="form-text">Please enter your message here.</div>
                                 </div>
                                 <div class="col-12">
                                     <button type="submit" class="btn btn-brand">Send Message</button>
