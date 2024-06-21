@@ -1,12 +1,10 @@
-Project Name: Fulcrum Fitness Website
-
-# Fulcrum Active Gym - README
-
-Welcome to Fulcrum Active Gym's web application repository. This document provides a comprehensive overview of the project, its development, and the rationale behind it.
 
 ## Project Overview
 
 Fulcrum Active Gym is an interactive and fully-functional web application designed to enhance the user experience for gym members. It aims to provide a seamless interface for managing memberships, booking classes, and accessing fitness resources. The application is developed using advanced web technologies to ensure responsiveness, usability, and accessibility.
+
+[View the live website here ](https://jboates01.github.io/fulcrum-active-fitness-gym/)
+![Homepage Desktop Wireframe](images/mock-up.png)
 
 ## Rationale
 
