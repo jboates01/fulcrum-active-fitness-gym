@@ -7,7 +7,7 @@
 | Home Link                      | Navigates to home page                                       | Clicked Home Link                 | Home page loaded                                | Pass      |
 | Facility Info Link             | Facility info page displays                                  | Clicked Facility Info link        | Facility info page displayed                    | Pass      |
 | Trainers Info Link             | Trainers info page displays                                  | Clicked Trainers Info link        | Trainers info page displayed                    | Pass      |
-| Schedule Link                  | Schedule page displays                                       | Clicked Schedule link             | Schedule page displayed                         | Pass      |
+| Program Link                  | Program page displays                                       | Clicked Program link             | Program page displayed                         | Pass      |
 | Contact Link                   | Contact modal displays                                       | Clicked Contact link              | Contact modal displayed                         | Pass      |
 | Contact Modal                  | Modal closes when user clicks the close button               | Clicked close button              | Modal closed                                    | Pass      |
 | Contact Modal                  | Modal closes when user clicks anywhere outside of the modal  | Clicked outside of the modal      | Modal closed                                    | Pass      |
@@ -27,7 +27,7 @@
 | Trainer Profiles               | Displays trainer profiles with social media links            | Viewed trainers info page         | Trainer profiles displayed with social links    | Pass      |
 | Social Media Links             | Links open in a new tab                                      | Clicked social media links        | Links opened in a new tab                       | Pass      |
 
-### Schedule Page
+### Program Page
 
 | Feature                        | Expected Outcome                                             | Testing Performed                 | Result                                          | Pass/Fail |
 |--------------------------------|--------------------------------------------------------------|-----------------------------------|-------------------------------------------------|-----------|
