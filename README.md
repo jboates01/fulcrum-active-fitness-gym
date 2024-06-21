@@ -1,14 +1,14 @@
 
 ## Project Overview
 
-Fulcrum Active Gym is an interactive and fully-functional web application designed to enhance the user experience for gym members. It aims to provide a seamless interface for managing memberships, booking classes, and accessing fitness resources. The application is developed using advanced web technologies to ensure responsiveness, usability, and accessibility.
+Fulcrum Fitness Gym is an interactive and fully-functional web application designed to enhance the user experience for gym members. It aims to provide a seamless interface for managing memberships, booking classes, and accessing fitness resources. The application is developed using advanced web technologies to ensure responsiveness, usability, and accessibility.
 
 [View the live website here ](https://jboates01.github.io/fulcrum-active-fitness-gym/)
 ![Homepage Desktop Wireframe](images/mock-up.png)
 
 ## Rationale
 
-The development of Fulcrum Active Gym addresses the growing need for digital solutions in the fitness industry. Our goal is to create a platform that not only meets the operational needs of gym management but also provides a user-friendly interface for members. This application is designed with the following objectives in mind:
+The development of Fulcrum Active Gym addresses the growing need for digital solutions in the fitness industry. Our goal is to create a website that not only meets the operational needs of gym management but also provides a user-friendly interface for members. This application is designed with the following objectives in mind:
 
 - Streamlining the process of class bookings and membership management.
 - Providing easy access to fitness resources and schedules.
@@ -16,15 +16,15 @@ The development of Fulcrum Active Gym addresses the growing need for digital sol
 
 ## Development Process
 
-The development of Fulcrum Active Gym involved several stages, each meticulously documented to ensure clarity and transparency. Below is a detailed explanation of each stage:
+The development of Fulcrum Active Gym involved several stages. Below is a detailed explanation of each stage:
 
 ### 1. Project Planning and Rationale
-A clear and justified rationale for the application was documented, outlining its real-world application and the development strategy. The project aims to provide a comprehensive solution for gym management and user engagement.
+The primary rationale for designing this application is to address the growing need for efficient and effective gym management and user engagement solutions. In today's fast-paced environment, gym owners and managers face numerous challenges, including membership management, class scheduling, trainer assignments, and maintaining user engagement. Traditional methods often fall short in providing a seamless experience, leading to operational inefficiencies and decreased customer satisfaction. The project aims to provide a comprehensive solution for gym management and user engagement.
 
 ### 2. Custom HTML and CSS
 The application was developed using custom HTML and CSS code, ensuring compliance with official validation standards:
-- **HTML Validation:** The HTML code passes through the W3C validator with no issues.
-- **CSS Validation:** The CSS code passes through the official Jigsaw validator with no issues, employing advanced techniques such as CSS media queries for responsiveness.
+- **HTML Validation:** The HTML code passed through the W3C validator with no issues.
+- **CSS Validation:** The CSS code passed through the official Jigsaw validator with no issues, including advanced techniques such as CSS media queries for responsiveness.
 
 ### 3. Screenshots and User Stories
 Screenshots of the finished project are included to illustrate the user interface and functionality, aligning with relevant user stories. These visuals provide a clear representation of how the application meets user needs.
