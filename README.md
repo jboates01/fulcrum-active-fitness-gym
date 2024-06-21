@@ -16,15 +16,35 @@ The development of Fulcrum Active Gym addresses the growing need for digital sol
 
 ## Development Process
 
-The development of Fulcrum Active Gym involved several stages. Below is a detailed explanation of each stage:
+The development of Fulcrum Fitness Gym involved several stages. Below is a detailed explanation of each stage:
 
 ### 1. Project Planning and Rationale
-The primary rationale for designing this application is to address the growing need for efficient and effective gym management and user engagement solutions. In today's fast-paced environment, gym owners and managers face numerous challenges, including membership management, class scheduling, trainer assignments, and maintaining user engagement. Traditional methods often fall short in providing a seamless experience, leading to operational inefficiencies and decreased customer satisfaction. The project aims to provide a comprehensive solution for gym management and user engagement.
+The rationale for this application addresses the need for efficient gym management and enhanced member engagement. Gym owners face challenges like membership management, class scheduling, and maintaining user engagement, which traditional methods often fail to solve. This project integrates various aspects into one platform, providing information on gym facilities, trainer social media profiles, member testimonials, special events, and an interactive contact form. By automating tasks, streamlining communication, and offering personalised experiences, the application enhances management efficiency and member satisfaction. This comprehensive approach improves operations and fosters a stronger sense of community and loyalty among gym members.
 
 ### 2. Custom HTML and CSS
 The application was developed using custom HTML and CSS code, ensuring compliance with official validation standards:
 - **HTML Validation:** The HTML code passed through the W3C validator with no issues.
 - **CSS Validation:** The CSS code passed through the official Jigsaw validator with no issues, including advanced techniques such as CSS media queries for responsiveness.
+
+## User Experience (UX)
+
+### User Stories
+
+#### First Time Visitor Goals
+- **As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the gym.**
+  - Upon entering the site, users are greeted with a clean and easily readable interface that clearly conveys the purpose of the gym.
+  - The homepage features an engaging image that gives an immediate sense of the gym's atmosphere and offerings.
+- **As a First Time Visitor, I want to be able to easily navigate throughout the site to find content.**
+  - The site is fully responsive, ensuring optimal viewing on all devices.
+  - The navigation bar is straightforward, allowing easy access to all sections of the site.
+- **As a First Time Visitor, I want to look for the services the gym provides.**
+  - Detailed pages outline the various services offered by the gym, making it easy for visitors to find the information they need.
+
+#### Returning Visitor Goals
+- **As a Returning Visitor, I want to find information about the different services the gym provides.**
+  - The services page is updated regularly, providing comprehensive details about all available classes and facilities.
+- **As a Returning Visitor, I want to find the best way to get in contact with the gym.**
+
 
 ### 3. Screenshots and User Stories
 Screenshots of the finished project are included to illustrate the user interface and functionality, aligning with relevant user stories. These visuals provide a clear representation of how the application meets user needs.
