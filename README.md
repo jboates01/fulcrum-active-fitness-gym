@@ -1,5 +1,5 @@
 
-## Project Overview
+## Welcome to Fulcrum Fitness Gym Website Project
 
 Fulcrum Fitness Gym is an interactive and fully-functional web application designed to enhance the user experience for gym members. It aims to provide a seamless interface for managing memberships, booking classes, and accessing fitness resources. The application is developed using advanced web technologies to ensure responsiveness, usability, and accessibility.
 
@@ -20,9 +20,9 @@ The inspiration for this project comes from the desire to improve the traditiona
 
 ### Project Background 
 
-The fitness industry has seen a significant shift towards digitalization, with many gyms adopting online platforms to manage their operations and engage with members. However, existing solutions often lack the intuitive interfaces and comprehensive features needed to meet the evolving demands of users. Recognizing this gap, the Fulcrum Active Gym website was conceived to offer a fresh take on gym management by utilizing advanced web technologies to create a responsive, dynamic user experience.
+The fitness industry has seen a significant shift towards digitalization, with many gyms adopting online platforms to manage their operations and engage with members. However, existing solutions often lack the intuitive interfaces and comprehensive features needed to meet the evolving demands of users. Recognising this gap, the Fulcrum Active Gym website was conceived to offer a fresh take on gym management by utilising advanced web technologies to create a responsive, dynamic user experience.
 
-The development of this website took approximately eight weeks, with a significant focus on ensuring seamless navigation and user interaction. While the initial scope of the project seemed straightforward, several challenges arose that required innovative solutions, ultimately leading to a more robust and user-friendly platform.
+The development of this website focuses on ensuring seamless navigation and user interaction. While the initial scope of the project seemed straightforward, several challenges arose that required innovative solutions, ultimately leading to a more robust and user-friendly platform.
 
 ### Scope and Limitations of the Project
 
@@ -32,6 +32,7 @@ The scope of the project includes the development of a web-based platform with t
 - Information on trainers with their social media links
 - Schedules for gym activities
 - A modal interactive contact form
+- An interactive location map
 
 Known limitations include:
 - Dependence on external APIs for trainer and schedule data, which can affect availability and accuracy.
@@ -49,6 +50,7 @@ The Fulcrum Active Gym website offers a comprehensive solution with the followin
 - **Trainer Information:** Profiles of trainers with their social media links, providing members with insights into their expertise and personality.
 - **Schedules:** Up-to-date schedules for all gym activities, ensuring members can plan their visits effectively.
 - **Interactive Contact Form:** A modal contact form for easy communication, allowing members to get in touch with the gym conveniently.
+- **Interactive Location Map:** An interactive map to help members and potential visitors easily locate the gym and get directions.
 
 ### Key Benefits
 
@@ -65,7 +67,7 @@ Ideas for future enhancements to the Fulcrum Active Gym website include:
 - **Class Scheduling and Booking:** Allowing members to book classes directly through the website.
 - **Expanded Fitness Resources:** Incorporating more diverse and extensive resources to cater to various fitness needs and preferences.
 - **Multilingual Support:** Allowing the website to be used in multiple languages to serve a broader audience.
-- **Advanced Analytics:** Providing detailed analytics and insights for gym management to optimize operations and improve member satisfaction.
+- **Advanced Analytics:** Providing detailed analytics and insights for gym management to optimise operations and improve member satisfaction.
 - **Integration with Wearables:** Allowing users to sync their fitness data from wearable devices for a more comprehensive tracking experience.
 - **Community Features:** Adding forums and social features to foster a sense of community among members.
 
@@ -138,9 +140,17 @@ The application was developed using custom HTML and CSS code, ensuring complianc
 
 Here are the wireframes for the homepage layout:
 
-![Homepage Desktop Wireframe](images/home_desktop_wireframe.png)<br>
-![Homepage Tablet Wireframe](images/home_tablet_wireframe.png)<br>
-![Homepage Mobile Wireframe](images/home_mobile_wireframe.png)<br>
+**Desktop**
+![Homepage Desktop Wireframe](images/home_desktop_wireframe.png)
+![About Desktop Wireframe](images/about_desktop_wireframe.png)<br>
+
+**Tablet**
+![Homepage Tablet Wireframe](images/home_tablet_wireframe.png)
+![About Tablet Wireframe](images/about_tablet_wireframe.png)<br>
+
+**Mobile**
+![Homepage Mobile Wireframe](images/home_mobile_wireframe.png)
+![About Mobile Wireframe](images/about_mobile_wireframe.png)<br>
 
 ## 1. Website Structure and Content
 - **Requirement:** The website must consist of at least three separate pages or page areas if using a single scrolling page.
