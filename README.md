@@ -45,42 +45,60 @@ The application was developed using custom HTML and CSS code, ensuring complianc
   - The services page is updated regularly, providing comprehensive details about all available classes and facilities.
 - **As a Returning Visitor, I want to find the best way to get in contact with the gym.**
 
+## Design Choices
 
-### 3. Screenshots and User Stories
-Screenshots of the finished project are included to illustrate the user interface and functionality, aligning with relevant user stories. These visuals provide a clear representation of how the application meets user needs.
+### Choosing a Static Site
+- **Performance and Simplicity**: Static sites load faster and are less complex to deploy and maintain compared to dynamic sites.
+- **Security**: Fewer security risks as there are no databases or dynamic server-side processing.
+- **Cost-Effectiveness**: Hosting for static websites is generally cheaper, and sometimes free, on platforms like GitHub Pages.
 
-### 4. Manual Testing Procedures
-Comprehensive manual testing procedures were designed and implemented to assess the application's functionality, usability, and responsiveness. Testing scenarios covered various user interactions to ensure a seamless experience across different devices and browsers.
+### Layout Decisions
+- **Navigation**: Easy-to-use, fixed top navigation bar that remains accessible as users scroll.
+- **Typography**: Clear and readable fonts, with a professional look that aligns with the fitness centre's branding.
+- **Color Scheme**: Motivating and energetic colours that enhance the user experience and focus on fitness and health.
 
-### 5. Testing Documentation
-The results of the testing procedures are documented in this README file, detailing the methods used and the outcomes. This documentation provides transparency and serves as a reference for future improvements.
+### Colour Scheme
+- The main color scheme for the site includes:  
+  - `#092032` (rgb(10, 38, 71))
+  - `#516171` (rgb(20, 66, 114))
+  - `#f2dd66` (rgb(32, 82, 149))
+  - `#dc2543` (rgb(44, 116, 179))
+  - `#747ba9` (rgb(44, 116, 179))
 
-### 6. Development Lifecycle
-The README file includes a detailed account of the development lifecycle procedures. This documentation covers all stages from initial planning to final deployment, highlighting key milestones and decisions.
+### Typography
+- The primary font used throughout the website is 'Barlow', with 'Sans Serif' as the fallback font.
 
-### 7. Commit Messages
-The development and testing process is clearly evident through detailed commit messages. Each commit message provides a rationale for the changes made, ensuring that the project history is well-documented and justified.
+### Imagery
+- Imagery plays a crucial role in the website, with high-quality images used on the homepage and service pages to illustrate the gym's facilities and activities.
 
-### 8. User Stories and Target Audience
-The application was developed with a clear understanding of the target audience's needs. User stories were created to guide the development process, ensuring that the application addresses specific requirements and enhances user satisfaction.
+### Wireframes
+- Wireframes were created to outline the structure and layout of the website.
 
-### 9. Advanced Techniques
-The application incorporates advanced web development techniques, such as CSS media queries, to ensure that it is fully responsive and provides a consistent user experience across different devices.
+Here are the wireframes for the homepage layout:
 
-## Conclusion
+![Homepage Desktop Wireframe](images/Home_desktop.png)
+![Homepage Tablet Wireframe](images/Home_tablet.png)
+![Homepage Mobile Wireframe](images/Home_mobile.png)
 
-Fulcrum Active Gym is a robust web application developed with a focus on functionality, usability, and user satisfaction. By adhering to industry standards and employing advanced techniques, we have created a platform that meets the needs of both gym management and members. We invite you to explore the application and provide feedback to help us continue improving.
+### About Us Page Wireframes
+Below is the wireframe depicting the about page design:
 
-Thank you for your interest in Fulcrum Active Gym.
+![About Page Desktop Wireframe](images/About_desktop.png)
+![About Page Tablet Wireframe](images/About_tablet.png)
+![About Mobile Wireframe](images/About_mobile.png)
+
+#### Programs Page Wireframes
+Below is the wireframe depicting the programs page design:
+
+![About Mobile Wireframe](images/Programs_desktop.png)
+![About Mobile Wireframe](images/Programs_tablet.png)
+![About Mobile Wireframe](images/Program_mobile.png)
 
 
-This project aims to provide an engaging, informative, and accessible online experience for gym members and potential clients. It features a responsive design, interactive elements, and a wealth of resources about a fictitious gym club - Fulcrum Fitness Club.
+## Features
 
-Description
-
-Fulcrum Fitness website is designed to promote the gym's programs and facilities, engage with members, and attract new visitors. The site includes features like class schedules, trainer social media follow links, member testimonials, and detailed information about special events and challenges.
-
-# Project Goals for the Fulcrum Fitness Website
+- **Responsive on all device sizes:** The website is designed to be fully responsive, providing a seamless experience across desktops, tablets, and mobile devices.
+- **Interactive elements:** The website includes interactive features such as class booking forms, member login, and personalized dashboards.
 
 The Fulcrum Fitness Website is designed with the following key objectives in mind:
 
@@ -148,10 +166,6 @@ The design and functionality of the Fulcrum Fitness Website are geared towards m
 
 By focusing on these goals, the Fulcrum Fitness Website aims to enhance the overall customer experience, making it easier and more enjoyable for clients to engage with their fitness goals.
 
-# Project Requirements for the Fulcrum Fitness Website
-
-The following are the detailed project requirements and specific functionalities that the development team aimed to implement:
-
 ## 1. Website Structure and Content
 - **Requirement:** The website must consist of at least three separate pages or page areas if using a single scrolling page.
 - **Details:** 
@@ -182,82 +196,6 @@ The following are the detailed project requirements and specific functionalities
   - Use sufficient contrast ratios for text against background
 
 By implementing these requirements, the Fulcrum Fitness Website will not only meet the initial project scope but also provide a robust platform for future enhancements and user engagement.
-
-# User Stories for the Fulcrum Fitness Website
-
-User stories help define the functionality of the website from the perspective of different users. Below are the key user stories that have guided the development of the Fulcrum Fitness Website:
-
-## 1. As a new visitor, I want to easily navigate the website, so that I can find the information I need without frustration.
-
-## 2. As a potential client, I want to view the training schedule, so I can see if there are sessions that fit my availability.
-
-## 3. As a returning visitor, I want the ability to contact the gym directly through the website, so that I can ask specific questions or arrange a visit.
-
-## 4. As a user with disabilities, I want to be able to use the website fully, so that I can access all areas just like any other user.
-
-## 5. As a busy user, I want to access the website from any device, so that I can check information on-the-go whether on my phone, tablet, or desktop.
-
-## 6. As a new customer, I want to easily find directions to the gym, so that I can visit for the first time without getting lost.
-
-## 7. As an interested client, I want to fill out a contact form to register for a training session, so that I can secure my spot without needing to call.
-
-## 8. As a tech-savvy user, I want to interact with the website’s social media links, so that I can follow them and stay updated on events and offers.
-
-Each user story is implemented with the goal of enhancing user satisfaction and ensuring that the website serves the needs of all visitors effectively.
-
-# Design and Architecture of the Fulcrum Fitness Website
-
-The design and architecture of the Fulcrum Fitness Website are crafted to provide a user-friendly, efficient, and visually appealing experience. Below are detailed insights into the layout, design choices, technologies used, and considerations for responsive design.
-
-## Website Architecture
-
-### Layout
-The website architecture is designed with simplicity and scalability in mind, employing a modular approach that includes:
-- **Home Page**: Introduces the fitness centre and provides quick navigation to other sections.
-- **Training Schedule**: Lists all available training sessions for different types of classes.
-- **Contact Us**: Features a modal form for inquiries.
-- **Programs**: Features pictures of different training sessions, has a training schedule, contact details and an embedded map to where customers can find the gym.
-
-### Diagrams and Sketches
-These visual representations helped in planning the site layout and the interaction between different components.
-
-Here are the wireframes for the Fulcrum Fitness Gym Website Project
-
-## Project Wireframes
-
-### Homepage Wireframes
-
-Here are the wireframes for the homepage layout:
-
-![Homepage Desktop Wireframe](images/Home_desktop.png)
-![Homepage Tablet Wireframe](images/Home_tablet.png)
-![Homepage Mobile Wireframe](images/Home_mobile.png)
-
-### About Us Page Wireframes
-Below is the wireframe depicting the about page design:
-
-![About Page Desktop Wireframe](images/About_desktop.png)
-![About Page Tablet Wireframe](images/About_tablet.png)
-![About Mobile Wireframe](images/About_mobile.png)
-
-#### Programs Page Wireframes
-Below is the wireframe depicting the programs page design:
-
-![About Mobile Wireframe](images/Programs_desktop.png)
-![About Mobile Wireframe](images/Programs_tablet.png)
-![About Mobile Wireframe](images/Program_mobile.png)
-
-## Design Choices
-
-### Choosing a Static Site
-- **Performance and Simplicity**: Static sites load faster and are less complex to deploy and maintain compared to dynamic sites.
-- **Security**: Fewer security risks as there are no databases or dynamic server-side processing.
-- **Cost-Effectiveness**: Hosting for static websites is generally cheaper, and sometimes free, on platforms like GitHub Pages.
-
-### Layout Decisions
-- **Navigation**: Easy-to-use, fixed top navigation bar that remains accessible as users scroll.
-- **Typography**: Clear and readable fonts, with a professional look that aligns with the fitness centre's branding.
-- **Color Scheme**: Motivating and energetic colours that enhance the user experience and focus on fitness and health.
 
 ## Technologies Used
 - **HTML5**: For structuring the content and creating a semantic layout.
