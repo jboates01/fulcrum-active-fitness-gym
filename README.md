@@ -76,9 +76,9 @@ The application was developed using custom HTML and CSS code, ensuring complianc
 
 Here are the wireframes for the homepage layout:
 
-![Homepage Desktop Wireframe](images/home_desktop_wireframe.png)
-![Homepage Tablet Wireframe](images/home_tablet_wireframe.png)
-![Homepage Mobile Wireframe](images/home_mobile_wireframe.png)
+[Homepage Desktop Wireframe](images/home_desktop_wireframe.png)<br>
+[Homepage Tablet Wireframe](images/home_tablet_wireframe.png)<br>
+[Homepage Mobile Wireframe](images/home_mobile_wireframe.png)<br>
 
 ## 1. Website Structure and Content
 - **Requirement:** The website must consist of at least three separate pages or page areas if using a single scrolling page.
@@ -203,7 +203,7 @@ By adhering to these design principles, the Fulcrum Fitness Website aims to deli
 
 ### Content
 - All content was written by the developer.
-- The color scheme was selected from [Canva](https://canva.com/).
+- The colour scheme was selected from [Canva](https://canva.com/).
 
 ### Picture Credits
 
@@ -256,9 +256,6 @@ During the development and ongoing maintenance of the Fulcrum Fitness Website, s
 - **Problem:** While the pages loaded correctly on Gitpod, it lost all images and page structure when pushed to GitHub.
 - **Fix:** Researched the problem and found some answers from stackoverflow.com which indicated that GitHub did not like image file paths like (../images/image.jpg) and that removing the first / will resolve the problem. Corrected the paths on all images i.e (images/images.jpg) on all pages and tested to ensure that all  image links were properly working on all pages.
 
-### Contact
-
-For more information, please contact me at jake.boateng@gmail.com.
 
 
 
