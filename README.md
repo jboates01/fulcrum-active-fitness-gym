@@ -95,77 +95,6 @@ Below is the wireframe depicting the programs page design:
 ![About Mobile Wireframe](images/Program_mobile.png)
 
 
-## Features
-
-- **Responsive on all device sizes:** The website is designed to be fully responsive, providing a seamless experience across desktops, tablets, and mobile devices.
-- **Interactive elements:** The website includes interactive features such as class booking forms, member login, and personalized dashboards.
-
-The Fulcrum Fitness Website is designed with the following key objectives in mind:
-
-## 1. Create a User-Friendly Interface
-- **Objective:** Design an intuitive and easy-to-navigate website that allows visitors to find information quickly.
-- **Details:** The interface should be simple yet functional, catering to users of all ages and technical skills.
-
-## 2. Develop Responsive Web Pages
-- **Objective:** Ensure that the website is fully responsive on all devices.
-- **Details:** Utilise flexible layouts, images, and CSS or media queries to accommodate various screen sizes and orientations.
-
-## 3. Provide Comprehensive Fitness Information
-- **Objective:** Offer detailed information about fitness programs, including schedules and session descriptions.
-- **Details:** Information should be easy to update to reflect any changes.
-
-## 4. Incorporate a Contact Us Section
-- **Objective:** Implement a "Contact Us" area with an inquiry form and essential contact details.
-- **Details:** Include email, phone number, and physical location information.
-
-## 5. Include a Map Integration
-- **Objective:** Embed a map to show the location of the fitness centre.
-- **Details:** The map should be clear and easy to read, allowing users to zoom and view directions.
-
-## 6. Ensure High Performance and Security
-- **Objective:** The website should load quickly and operate smoothly.
-- **Details:** The code should be clean to avoid link errors form errors.
-
-## 7. Promote Engagement and Interaction
-- **Objective:** Encourage interaction through social media links and beautiful and engaging imagery to make the club appealing for new membership signups.
-- **Details:** Include health tips and possibly special events that features health and wellness themes to keep visitors engaged.
-
-By meeting these goals, Fulcrum Fitness aims to increase client engagement and satisfaction, creating a comprehensive and effective online presence.
-
-# Customer Goals for the Fulcrum Fitness Website
-
-The design and functionality of the Fulcrum Fitness Website are geared towards meeting the following customer goals:
-
-## 1. Easy Navigation and Accessibility
-- **Goal:** Customers should be able to easily navigate the website and find the information they need without hassle.
-- **Details:** Key information is accessible from the homepage, with clear links to all sections.
-
-## 2. Access Detailed Training Information
-- **Goal:** Provide customers with comprehensive details about training schedules, availability, and trainers.
-- **Details:** Each training program and session is described in detail, including the time, duration, and trainer profiles.
-
-## 3. Seamless Contact and Interaction
-- **Goal:** Enable customers to contact Fulcrum Fitness effortlessly to book sessions or ask questions.
-- **Details:** A user-friendly contact form along with direct contact details and an interactive map to locate the fitness centre.
-
-## 4. Responsive Design for All Devices
-- **Goal:** Ensure every customer can access the website from any device, whether desktop, tablet, or smartphone.
-- **Details:** The website uses responsive design techniques to provide a consistent experience across all devices.
-
-## 5. Find Us Easily
-- **Goal:** Help new clients locate the fitness centre easily through detailed maps and directions.
-- **Details:** An embedded Google Maps interface allows users to get directions from their location to the centre.
-
-## 6. Learn and Engage
-- **Goal:** Offer educational content and updates through a blog and social media that encourage health and fitness education.
-- **Details:** Regular posts about fitness tips, health news, and community events to keep customers engaged and informed.
-
-## 7. Stay Updated
-- **Goal:** Provide a way for customers to receive updates about new sessions, offers, or changes in schedules.
-- **Details:** Integration of a newsletter signup form where customers can subscribe to receive updates directly in their inbox.
-
-By focusing on these goals, the Fulcrum Fitness Website aims to enhance the overall customer experience, making it easier and more enjoyable for clients to engage with their fitness goals.
-
 ## 1. Website Structure and Content
 - **Requirement:** The website must consist of at least three separate pages or page areas if using a single scrolling page.
 - **Details:** 
@@ -217,82 +146,81 @@ By adhering to these design principles, the Fulcrum Fitness Website aims to deli
 2. **CSS3**
 3. **JavaScript**
 4. **JQuery**
-5. **Bootstrap**: Used for responsive, mobile-first design. Licensed under MIT ([license](https://github.com/twbs/bootstrap/blob/main/LICENSE))
+5. **Bootstrap**: Used for responsive, mobile-first design. Licensed under MIT ([license](https://github.com/twbs/bootstrap/blob/main/LICENSE)): Used for responsiveness and styling.
 6. **Owl Carousel**: Implemented for creating interactive carousels for testimonials and gallery sections. Licensed under: [SEE LICENSE](https://github.com/OwlCarousel2/OwlCarousel2/blob/master/LICENSE)
 7. **Boxicons**: Icons used throughout the website for intuitive and aesthetically pleasing UI design.
 8. **W3Schools & Code Institute**: References for coding techniques and best practices.
 9. **Canva Pro & Pexels**: High-quality images used to enhance visual appeal and user engagement.
+10. **Google Fonts:** Used to import the 'Marvel' font into the style.css file.
+11. **Git:** Used for version control, with commits and pushes to GitHub.
+12. **GitHub:** Used to store the project's code.
+13. **Photoshop:** Used to create wireframes and resize images for better display.
 
-## Features
+## Testing
 
-- Responsive Layout
-- Interactive Carousels
-- Modal Contact Form
-- New Fitness Routines Section
-- Real-time Class Schedules
-- Accessible Design
+- The [W3C Markup Validator](https://www.validator.w3.org) and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors.
+  - [W3C Markup Validator - Results](https://validator.w3.org/nu/?doc=https%3A%2F%2Fjboates01.github.io%2Ffulcrum-active-fitness-gym%2F)
+  - W3C CSS Validator - Results
 
-## Setup
+### Testing User Stories from User Experience (UX) Section
 
-To get a local copy up and running, follow these simple steps:
+#### First Time Visitor Goals
+- **As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the gym.**
+  - The homepage clearly presents the gym's purpose with a welcoming image and easy-to-read content.
+- **As a First Time Visitor, I want to be able to easily navigate throughout the site to find content.**
+  - The site is fully responsive and easy to navigate.
+- **As a First Time Visitor, I want to look for the services the gym provides.**
+  - Service pages are easily accessible and provide detailed information.
 
-1. Clone the repo
+#### Returning Visitor Goals
+- **As a Returning Visitor, I want to find information about the different services the gym provides.**
+  - The services page is detailed and easy to find.
+- **As a Returning Visitor, I want to find the best way to get in contact with the gym.**
+  - Contact information is readily available on the contact page and in the footer of every page.
 
-https://jboates01.github.io/fulcrum-active-fitness-gym/#
+### Further Testing
+- The website was tested on various browsers: Google Chrome, Internet Explorer, Microsoft Edge, and Safari.
+- The website was viewed on multiple devices: Desktop, Laptop, iPhone 7, iPhone 8, and iPhone X.
+- Extensive testing ensured that all pages linked correctly.
+- Friends and family members reviewed the site for bugs and user experience issues.
 
-2. Open `index.html` in your browser to view the project.
+### Known Bugs
+- No known bugs.
 
+## Deployment
 
-## Code Example
+### GitHub Pages
+- The project was deployed to GitHub Pages using the following steps:
+  1. Log in to GitHub and locate the GitHub Repository.
+  2. Go to the "Settings" tab in the repository.
+  3. Scroll down to the "GitHub Pages" section.
+  4. Under "Source," select "Master Branch."
+  5. The page will refresh, and the website link will be provided in the "GitHub Pages" section.
 
-Here's a snippet from our Owl Carousel implementation:
+### Forking the GitHub Repository
+- To fork the repository:
+  1. Log in to GitHub and locate the repository.
+  2. Click the "Fork" button at the top of the repository.
 
-### HTML
+### Making a Local Clone
+- To make a local clone:
+  1. Log in to GitHub and locate the repository.
+  2. Click "Clone or download" and copy the URL.
+  3. Open Git Bash and navigate to the desired directory.
+  4. Type `git clone` followed by the copied URL.
+  5. Press Enter to create the local clone.
 
-```html
-<div class="owl-carousel owl-theme hero-slider">
-    <div class="slide slide1">
-        <div class="container">
-            <div class="row">
-                <div class="col-12 text-center text-white">
-                    <h6 class="text-white text-uppercase">Welcome to Fulcrum Active</h6>
-                    <h1 class="display-3 my-4">Keep your body <br /><span>fit & Strong</span></h1>
-                    <a href="#" class="btn btn-brand">Join Us</a>
-                    <a href="#" class="btn btn-outline-light ms-3">Our Programs</a>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
+## Credits
 
-## JavaScript
+### Code
+- **Bootstrap5:** Used for responsive design using the Bootstrap Grid System.
+- **MDN Web Docs:** Used for pattern validation code, modified to fit project needs.
 
-$('.owl-carousel').owlCarousel({
-    loop:true,
-    margin:10,
-    nav:true,
-    responsive:{
-        0:{
-            items:1
-        },
-        600:{
-            items:2
-        },
-        1000:{
-            items:3
-        }
-    }
-})
+### Content
+- All content was written by the developer.
+- The color scheme was selected from [Canva](https://canva.com/).
 
-
-### Credits
-
-- **Design Inspiration**: W3Schools, Code Institute, ARCTutorials (YouTube Channel)
-- **Icons**: Boxicons
-- **Slides**: Owl Carousel
-
-
-# Picture Credits
+### Picture Credits
 
 Images used in the homepage sliders are credited to the following photographers:
 
@@ -307,38 +235,19 @@ Images used in the homepage sliders are credited to the following photographers:
   **Training Programs, icons and images used in the special events section **
   - Contributions: All activity images. Source: [Avanti-photos via Canva Pro]
 
-We appreciate the talent and work of the photographers that enhance the visual appeal of our website.
+### Acknowledgements
+- **Google:** For use of maps on the contact page.
+- **Sociable Kit:** To embed Google reviews on the site.
 
+### Design inspiration
 
-License
+- **W3Schools**: Code Institute, ARCTutorials (YouTube Channel)
+- **Icons**: Boxicons
+- **Slides**: Owl Carousel
+
+### License
 
 This project is licensed under the MIT License - see the "Technologies Used Section" for LICENCE details.
-
-
-# Deployment of the Fulcrum Fitness Website
-
-The Fulcrum Fitness Website was deployed to ensure it is accessible and runs efficiently on all devices. Below is an overview of the deployment process and the technologies used.
-
-## Deployment Process
-
-### 1. Code Preparation and Optimisation
-- The complete, tested code was pushed to a GitHub repository, ensuring all assets such as images, Bootstrap codes, Boxicon codes, Owl carousel codes, JQuery and JavaScript files were properly linked.
-- HTML, CSS, and JavaScript files minified versions were taken from bootstrap and github to reduce load times and improve the site’s responsiveness.
-
-### 2. Repository Setup and Integration
-- The GitHub repository was linked to Gitpod to utilise its continuous deployment features.
-- Any updates made and pushed to the GitHub repository are automatically deployed to the live website through Gitpod’s continuous deployment pipeline.
-
-### 4. HTTPS Configuration
-- HTTPS was automatically set up through Github, using Let’s Encrypt to provide a secure, encrypted connection for all users.
-- This configuration ensures that all data transmitted between the website and its users is secure.
-
-## Post-Deployment Activities
-- **Monitoring**: Lighthouse’s monitoring tools were employed to ensure high uptime and address any availability issues promptly.
-- **Updates**: Regular updates were made to the site’s content and structure as needed, pushed through GitHub.
-- **Analytics**: W3Schools CSS and HTM Validators were used to test the site.
-
-This deployment strategy ensures that the Fulcrum Fitness Website remains robust, responsive, and secure, providing a seamless experience to its users.
 
 # Bugs Fixed in the Fulcrum Fitness Website
 
@@ -362,9 +271,7 @@ During the development and ongoing maintenance of the Fulcrum Fitness Website, s
 - **Problem:** While the pages loaded correctly on Gitpod, it lost all images and page structure when pushed to GitHub.
 - **Fix:** Researched the problem and found some answers from stackoverflow.com which indicated that GitHub did not like image file paths like (../images/image.jpg) and that removing the first / will resolve the problem. Corrected the paths on all images i.e (images/images.jpg) on all pages and tested to ensure that all  image links were properly working on all pages.
 
-
-
-Contact
+### Contact
 
 For more information, please contact me at jake.boateng@gmail.com.
 
