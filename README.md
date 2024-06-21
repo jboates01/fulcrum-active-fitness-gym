@@ -142,15 +142,15 @@ Here are the wireframes for the homepage layout:
 
 **Desktop**
 ![Homepage Desktop Wireframe](images/home_desktop_wireframe.png)
-![About Desktop Wireframe](images/about_desktop_wireframe.png)<br>
+![About Desktop Wireframe](images/program_desktop_wireframe.png)<br>
 
 **Tablet**
 ![Homepage Tablet Wireframe](images/home_tablet_wireframe.png)
-![About Tablet Wireframe](images/about_tablet_wireframe.png)<br>
+![About Tablet Wireframe](images/program_tablet_wireframe.png)<br>
 
 **Mobile**
 ![Homepage Mobile Wireframe](images/home_mobile_wireframe.png)
-![About Mobile Wireframe](images/about_mobile_wireframe.png)<br>
+![About Mobile Wireframe](images/program_mobile_wireframe.png)<br>
 
 ## 1. Website Structure and Content
 - **Requirement:** The website must consist of at least three separate pages or page areas if using a single scrolling page.
