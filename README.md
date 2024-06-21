@@ -76,24 +76,9 @@ The application was developed using custom HTML and CSS code, ensuring complianc
 
 Here are the wireframes for the homepage layout:
 
-![Homepage Desktop Wireframe](images/Home_desktop.png)
-![Homepage Tablet Wireframe](images/Home_tablet.png)
-![Homepage Mobile Wireframe](images/Home_mobile.png)
-
-### About Us Page Wireframes
-Below is the wireframe depicting the about page design:
-
-![About Page Desktop Wireframe](images/About_desktop.png)
-![About Page Tablet Wireframe](images/About_tablet.png)
-![About Mobile Wireframe](images/About_mobile.png)
-
-#### Programs Page Wireframes
-Below is the wireframe depicting the programs page design:
-
-![About Mobile Wireframe](images/Programs_desktop.png)
-![About Mobile Wireframe](images/Programs_tablet.png)
-![About Mobile Wireframe](images/Program_mobile.png)
-
+![Homepage Desktop Wireframe](images/home_desktop_wireframe.png)
+![Homepage Tablet Wireframe](images/home_tablet_wireframe.png)
+![Homepage Mobile Wireframe](images/home_mobile_wireframe.png)
 
 ## 1. Website Structure and Content
 - **Requirement:** The website must consist of at least three separate pages or page areas if using a single scrolling page.
@@ -160,7 +145,7 @@ By adhering to these design principles, the Fulcrum Fitness Website aims to deli
 
 - The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors.
   - [W3C Markup Validator](https://www.validator.w3.org) - [Results](https://validator.w3.org/nu/?doc=https%3A%2F%2Fjboates01.github.io%2Ffulcrum-active-fitness-gym%2F)
-  - [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) - [Results]
+  - [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) - [Results](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fjboates01.github.io%2Ffulcrum-active-fitness-gym%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
 ### Testing User Stories from User Experience (UX) Section
 
