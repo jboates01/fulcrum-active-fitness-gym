@@ -111,11 +111,6 @@ Here are the wireframes for the homepage layout:
 
 By implementing these requirements, the Fulcrum Fitness Website will not only meet the initial project scope but also provide a robust platform for future enhancements and user engagement.
 
-## Technologies Used
-- **HTML5**: For structuring the content and creating a semantic layout.
-- **CSS3**: For styling, animations, and responsive design features.
-- **JavaScript (optional)**: For interactive elements like modal windows, form validation, and handling interactive maps.
-
 ## Responsive Design Considerations
 
 - **Flexible Grid Layout**: Ensures that the site's layout adjusts smoothly across devices of varying screen sizes.
@@ -220,10 +215,6 @@ Images used in the homepage sliders are credited to the following photographers:
   **Training Programs, icons and images used in the special events section **
   - Contributions: All activity images. Source: [Avanti-photos via Canva Pro]
 
-### Acknowledgements
-- **Google:** For use of maps on the contact page.
-- **Sociable Kit:** To embed Google reviews on the site.
-
 ### Design inspiration
 
 - **W3Schools**: Code Institute, ARCTutorials (YouTube Channel)
@@ -256,6 +247,9 @@ During the development and ongoing maintenance of the Fulcrum Fitness Website, s
 - **Problem:** While the pages loaded correctly on Gitpod, it lost all images and page structure when pushed to GitHub.
 - **Fix:** Researched the problem and found some answers from stackoverflow.com which indicated that GitHub did not like image file paths like (../images/image.jpg) and that removing the first / will resolve the problem. Corrected the paths on all images i.e (images/images.jpg) on all pages and tested to ensure that all  image links were properly working on all pages.
 
+### Acknowledgements
+- **Google:** For use of maps on the contact page.
+- **Boxicons:** For all icons on the site.
 
 
 
