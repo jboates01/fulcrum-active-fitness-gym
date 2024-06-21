@@ -76,9 +76,9 @@ The application was developed using custom HTML and CSS code, ensuring complianc
 
 Here are the wireframes for the homepage layout:
 
-[Homepage Desktop Wireframe](images/home_desktop_wireframe.png)<br>
-[Homepage Tablet Wireframe](images/home_tablet_wireframe.png)<br>
-[Homepage Mobile Wireframe](images/home_mobile_wireframe.png)<br>
+![Homepage Desktop Wireframe](images/home_desktop_wireframe.png)<br>
+![Homepage Tablet Wireframe](images/home_tablet_wireframe.png)<br>
+![Homepage Mobile Wireframe](images/home_mobile_wireframe.png)<br>
 
 ## 1. Website Structure and Content
 - **Requirement:** The website must consist of at least three separate pages or page areas if using a single scrolling page.
