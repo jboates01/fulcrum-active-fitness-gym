@@ -215,10 +215,10 @@ By adhering to these design principles, the Fulcrum Fitness Website aims to deli
 - The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors.
   - [W3C Markup Validator](https://www.validator.w3.org) - [Results](https://validator.w3.org/nu/?doc=https%3A%2F%2Fjboates01.github.io%2Ffulcrum-active-fitness-gym%2F)
   - [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) - [Results](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fjboates01.github.io%2Ffulcrum-active-fitness-gym%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
-  -[Lighthouse Metrics](https://lighthouse-metrics.com/lighthouse/checks/cf51467a-36c8-4f15-8bf5-15036c709fca)
+  -[Lighthouse Metrics](https://lighthouse-metrics.com/) - [Results](https://lighthouse-metrics.com/lighthouse/checks/cf51467a-36c8-4f15-8bf5-15036c709fca)
 
 ### Manual Testing
-Please see [manual.md](https://jboates01.github.io/fulcrum-active-fitness-gym/manual.md) for detailed manual testing information.
+Please see [manual.md](manual.md) for detailed manual testing information.
 
 
 ### Testing User Stories from User Experience (UX) Section
