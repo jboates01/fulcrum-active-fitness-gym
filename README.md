@@ -185,11 +185,13 @@ The landing page of Fulcrum Active Gym provides visitors with an overview of the
   <img src="images/program-intro.jpg" alt="homepage layout on desktop"> </p>
 
 ### tablet responsive version <br>
-![Homepage tablet](images/ipad-air-1.jpg) <br>
+<p align="center">
+  <img src="images/ipad-air-1.jpg" alt="tablet layout on desktop"> </p>
 
 ### mobile responsive version <br>
-![Homepage mobile](images/mobile-1.jpg) <br>
-</p>
+<p align="center">
+<img src="images/mobile-1.jpg" alt="mobile layout on desktop"> </p>
+
 
 - **Welcome Banner** - A welcoming message with a call to action for new visitors.
 - **Facilities Overview** - A brief description of the key facilities available at the gym.
