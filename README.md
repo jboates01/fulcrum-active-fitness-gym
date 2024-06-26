@@ -180,15 +180,15 @@ The navbar contains:
 
 The landing page of Fulcrum Active Gym provides visitors with an overview of the gym's offerings, facilities, and latest news. The layout is clean and visually appealing to ensure that users can quickly find the information they need. See snapshots below in desktop, tablet and mobile formats.
 
-### Desktop version <br>
+### Desktop version
 <p align="center">
   <img src="images/program-intro.jpg" alt="homepage layout on desktop"> </p>
 
-### tablet responsive version <br>
+### tablet responsive version
 <p align="center">
   <img src="images/ipad-air-1.jpg" alt="tablet layout on desktop"> </p>
 
-### mobile responsive version <br>
+### mobile responsive version
 <p align="center">
 <img src="images/mobile-1.jpg" alt="mobile layout on desktop"> </p>
 
