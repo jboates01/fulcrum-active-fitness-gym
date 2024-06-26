@@ -251,10 +251,9 @@ An interactive map helps users locate the gym and get directions easily.
 
 ![Footer Links](images/footer-1.jpg)
 
-The footer contains links to the gym's social media profiles and a quick contact option.
+The footer contains links to the gym's social media profiles.
 
 - **Social Media Links** - Opens in a new tab.
-- **Contact Link** - Opens the contact modal.
 
 ## 1. Website Structure and Content
 - **Requirement:** The website must consist of at least three separate pages or page areas if using a single scrolling page.
