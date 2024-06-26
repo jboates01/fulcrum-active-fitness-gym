@@ -132,7 +132,7 @@ The application was developed using custom HTML and CSS code, ensuring complianc
 ### Typography
 - The primary font used throughout the website is 'Barlow', with 'Sans Serif' as the fallback font. <br>
 
-[Barlow](https://fonts.google.com/specimen/Barlow) The Fulcrum Active Gym website uses the Barlow font throughout, employing various case forms such as lowercase, uppercase, and capitalized, to ensure a consistent and visually appealing typographic style.
+[Barlow](https://fonts.google.com/specimen/Barlow) The Fulcrum Active Gym website uses the Barlow font throughout, employing various case forms such as lowercase, uppercase, capitalized and bold, to ensure a consistent and visually appealing typographic style, as depicted in the snapshot below.
 
 ![Barlow for the homepage layout](images/Layout-1.jpg)
 
