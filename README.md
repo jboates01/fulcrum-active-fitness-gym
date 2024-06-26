@@ -187,15 +187,14 @@ The landing page of Fulcrum Active Gym provides visitors with an overview of the
 <p align="center">
 <img src="images/mobile-1.jpg" alt="mobile layout on desktop"> </p>
 
-## Home Page
-
 - **Welcome Banner** - A welcoming message with a call to action for new visitors.
 
 ![Welcome slides](images/welcome-1.jpg)
 
+#### Other features on home page
 - **Facilities Overview** - A brief description of the key facilities available at the gym.
 - **Featured Trainers** - Highlights some of the gym's top trainers with their profiles.
-- **Upcoming Classes** - Displays a snapshot of upcoming classes and events.
+- **Upcoming Events** - Displays a snapshot of upcoming events.
 
 ## The Facility Info Section
 
