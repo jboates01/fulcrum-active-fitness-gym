@@ -187,6 +187,7 @@ The landing page of Fulcrum Active Gym provides visitors with an overview of the
 <p align="center">
 <img src="images/mobile-1.jpg" alt="mobile layout on desktop"> </p>
 
+## Home Page
 
 - **Welcome Banner** - A welcoming message with a call to action for new visitors.
 
