@@ -156,6 +156,87 @@ Here are the wireframes for the homepage layout:
 ![Homepage Mobile Wireframe](images/home_mobile_wireframe.png)
 ![About Mobile Wireframe](images/program_mobile_wireframe.png)<br>
 
+## Features
+
+### Navbar
+The navbar is designed to facilitate easy navigation throughout the website.
+
+![The navbar](images/navigation-1.jpg)
+
+The navbar contains:
+
+- **Fulcrum Active Gym Logo** - Links to the home page, providing a way for users to return to the main page.
+- **About** - Provides detailed information about the gym facilities.
+- **Coaching Team** - Displays information about the trainers along with their social media links.
+
+![Coaching Team](images/coaching-1.jpg)
+
+- **Schedules** - Showcases the class schedules and timings.
+- **Contact Us** - Opens a modal with a contact form for users to reach out to the gym.
+
+![Contact](images/modal-1.jpg)
+
+## The Home Page
+
+The landing page of Fulcrum Active Gym provides visitors with an overview of the gym's offerings, facilities, and latest news. The layout is clean and visually appealing to ensure that users can quickly find the information they need. See snapshots below in desktop, tablet and mobile formats.
+
+![Homepage desktop](images/program-intro.jpg)
+![Homepage tablet](images/ipad-air-1.jpg)
+![Homepage mobile](images/mobile-1.jpg)
+
+- **Welcome Banner** - A welcoming message with a call to action for new visitors.
+- **Facilities Overview** - A brief description of the key facilities available at the gym.
+- **Featured Trainers** - Highlights some of the gym's top trainers with their profiles.
+- **Upcoming Classes** - Displays a snapshot of upcoming classes and events.
+
+## The Facility Info Page
+
+The Facility Info page offers detailed descriptions of all the facilities available at Fulcrum Active Gym.
+
+- **Facility Images** - High-quality images of the facilities.
+- **Descriptions** - Detailed information about each facility, including equipment and amenities.
+- **Benefits** - Lists the benefits of using each facility.
+
+## The Trainers Info Page
+
+The Trainers Info page provides comprehensive profiles of the gym's trainers.
+
+- **Trainer Profiles** - Each profile includes a photo, biography, and qualifications.
+- **Social Media Links** - Links to the trainers' social media profiles.
+- **Specialties** - Information about the trainers' areas of expertise.
+
+## The Schedules Page
+
+The Schedules page displays the class schedules, making it easy for members to plan their workouts.
+
+- **Class Timings** - List of class times and descriptions.
+- **Booking Information** - Instructions on how to book a class.
+- **Upcoming Events** - Information about special events and workshops.
+
+## Interactive Contact Form
+
+The contact form is designed to facilitate communication between the gym and its members.
+
+- **Name Field** - Accepts the user's name.
+- **Email Field** - Validates and accepts the user's email.
+- **Message Field** - Accepts a detailed message from the user.
+- **Submit Button** - Sends the form and displays a success message upon submission.
+
+## Interactive Location Map
+
+An interactive map helps users locate the gym and get directions easily.
+
+- **Map Display** - Shows the gym's location with interactive features.
+- **Get Directions Link** - Opens map directions in a new tab.
+- **Zoom Controls** - Allows users to zoom in and out for better navigation.
+
+## Footer Links
+
+The footer contains links to the gym's social media profiles and a quick contact option.
+
+- **Social Media Links** - Opens in a new tab.
+- **Contact Link** - Opens the contact modal.
+
 ## 1. Website Structure and Content
 - **Requirement:** The website must consist of at least three separate pages or page areas if using a single scrolling page.
 - **Details:** 
