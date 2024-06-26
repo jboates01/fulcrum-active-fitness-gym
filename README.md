@@ -167,8 +167,8 @@ The navbar contains:
 
 - **Fulcrum Active Gym Logo** - Links to the home page, providing a way for users to return to the main page.
 - **About** - Provides detailed information about the gym facilities.
-- **Coaching Team** - Displays information about the trainers along with their social media links.
-- **Schedules** - Showcases the class schedules and timings.
+- **Reviews** - Displays feedback and testimonials from our members, showcasing their experiences and satisfaction with our services.- 
+- **Program** - Showcases the class schedules and timings.
 - **Contact Us** - Opens a modal with a contact form for users to reach out to the gym.
 
 ## The Home Page
@@ -189,13 +189,18 @@ The landing page of Fulcrum Active Gym provides visitors with an overview of the
 
 
 - **Welcome Banner** - A welcoming message with a call to action for new visitors.
+
+![Welcome slides](images/welcome-1.jpg)
+
 - **Facilities Overview** - A brief description of the key facilities available at the gym.
 - **Featured Trainers** - Highlights some of the gym's top trainers with their profiles.
 - **Upcoming Classes** - Displays a snapshot of upcoming classes and events.
 
-## The Facility Info Page
+## The Facility Info Section
 
-The Facility Info page offers detailed descriptions of all the facilities available at Fulcrum Active Gym.
+![Facilities Info](images/facilities.png)
+
+The Facility Info on home page offers detailed descriptions of all the facilities available at Fulcrum Active Gym.
 
 - **Facility Images** - High-quality images of the facilities.
 - **Descriptions** - Detailed information about each facility, including equipment and amenities.
@@ -211,7 +216,9 @@ The Trainers Info page provides comprehensive profiles of the gym's trainers.
 - **Social Media Links** - Links to the trainers' social media profiles.
 - **Specialties** - Information about the trainers' areas of expertise.
 
-## The Schedules Page
+## The Program Page
+
+![Program page](images/schedules-1.png)
 
 The Schedules page displays the class schedules, making it easy for members to plan their workouts.
 
@@ -232,6 +239,8 @@ The contact form is designed to facilitate communication between the gym and its
 
 ## Interactive Location Map
 
+![Interactive map](images/map.png)
+
 An interactive map helps users locate the gym and get directions easily.
 
 - **Map Display** - Shows the gym's location with interactive features.
@@ -239,6 +248,8 @@ An interactive map helps users locate the gym and get directions easily.
 - **Zoom Controls** - Allows users to zoom in and out for better navigation.
 
 ## Footer Links
+
+![Footer Links](images/footer-1.jpg)
 
 The footer contains links to the gym's social media profiles and a quick contact option.
 
