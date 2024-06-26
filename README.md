@@ -168,13 +168,8 @@ The navbar contains:
 - **Fulcrum Active Gym Logo** - Links to the home page, providing a way for users to return to the main page.
 - **About** - Provides detailed information about the gym facilities.
 - **Coaching Team** - Displays information about the trainers along with their social media links.
-
-![Coaching Team](images/coaching-1.jpg)
-
 - **Schedules** - Showcases the class schedules and timings.
 - **Contact Us** - Opens a modal with a contact form for users to reach out to the gym.
-
-![Contact](images/modal-1.jpg)
 
 ## The Home Page
 
@@ -208,6 +203,8 @@ The Facility Info page offers detailed descriptions of all the facilities availa
 
 ## The Trainers Info Page
 
+![Coaching Team](images/coaching-1.jpg)
+
 The Trainers Info page provides comprehensive profiles of the gym's trainers.
 
 - **Trainer Profiles** - Each profile includes a photo, biography, and qualifications.
@@ -223,6 +220,8 @@ The Schedules page displays the class schedules, making it easy for members to p
 - **Upcoming Events** - Information about special events and workshops.
 
 ## Interactive Contact Form
+
+![Contact](images/modal-1.jpg)
 
 The contact form is designed to facilitate communication between the gym and its members.
 
